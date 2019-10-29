@@ -1,4 +1,3 @@
-<!-- All HTML within the template tags -->
 
 <template>
   <!-- All HTML within the template tags -->
